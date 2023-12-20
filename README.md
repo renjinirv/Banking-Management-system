@@ -3,5 +3,3 @@ Here I have created a Python program to replicate a bank management system. I ha
 Here the operations include account creation, account login, deposit amount, withdrawal amount, balance checking and account details checking. Hope you all understand my program very easily.
 
 
-
-https://drive.google.com/file/d/13Iu1o7UJNuTe2RQtVUfdBhcJjhjxW4-4/view?usp=drivesdk
